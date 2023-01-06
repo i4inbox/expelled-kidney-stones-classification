@@ -1,1 +1,1 @@
-# expelled-kidney-stones-classification
+# Expelled kidney stones classification using feature fusion
